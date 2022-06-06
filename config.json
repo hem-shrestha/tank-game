@@ -48,7 +48,7 @@
     "screenName":{
         "maxLength": 12,
         "blacklist": [
-            "someBadWord",
+            "someBadWord"
         ]
     }
 }
